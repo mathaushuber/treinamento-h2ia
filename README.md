@@ -1,4 +1,4 @@
-<img align='center' src="/.github/hub.jpeg" width="200">
+<img align='center' src="/.github/hub.jpg" width="200">
 
 ### Semana 1
 Buscas cegas - busca por largura e profundidade. Resolução do problema do quebra cabeça deslizante de 8 peças. 
