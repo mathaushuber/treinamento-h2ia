@@ -15,3 +15,5 @@ Algoritmos Genéticos. Resolução do problema da mochila binária.
 ### Semana 5
 Busca Competitiva. Resolução do jogo de damas.
 
+### Semana 6
+Aprendizado de máquina não supervisionado. K-Means. Modelo de agrupamento para o problema das espécies de Iris.
