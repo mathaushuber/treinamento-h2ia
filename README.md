@@ -17,3 +17,6 @@ Busca Competitiva. Resolução do jogo de damas.
 
 ### Semana 6
 Aprendizado de máquina não supervisionado. K-Means. Modelo de agrupamento para o problema das espécies de Iris.
+
+### Semana 7
+Aprendizado de máquina supervisionado. KNN. Modelo de agrupamento para o problema das espécies de Iris.
