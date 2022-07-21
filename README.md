@@ -20,3 +20,9 @@ Aprendizado de máquina não supervisionado. K-Means. Modelo de agrupamento para
 
 ### Semana 7
 Aprendizado de máquina supervisionado. KNN. Modelo de agrupamento para o problema das espécies de Iris.
+
+### Semana 8
+Aprendizado de máquina supervisionado. Árvore de decisão. Algoritmo ID3 para o problema: Wine recognition dataset.
+
+### Semana 9
+Aprendizado de máquina supervisionado. Perceptron e Multilayer perceptron (MLP). Rede neural MLP para classificar o dataset MNIST.
