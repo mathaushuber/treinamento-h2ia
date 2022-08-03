@@ -3,6 +3,8 @@
 ### Semana 1
 Buscas cegas - busca por largura e profundidade. Resolução do problema do quebra cabeça deslizante de 8 peças. 
 
+<a href="https://medium.com/@mathaushuber/buscas-sem-informa%C3%A7%C3%A3o-b9b2f7e18db4">https://medium.com/@mathaushuber/buscas-sem-informacao%C3%A7%C3%A3o-b9b2f7e18db4</a>
+
 ### Semana 2
 Buscas com informação - A*. Resolução do problema do quebra cabeça deslizante de 8 peças.
 
